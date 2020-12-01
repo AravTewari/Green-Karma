@@ -50,9 +50,10 @@ class _AuthState extends State<Auth> {
             : Container(
                 decoration: BoxDecoration(
                   gradient: LinearGradient(
-                      colors: [Theme.of(context).highlightColor, Theme.of(context).accentColor],
-                      begin: Alignment.topCenter,
-                      end: Alignment.center),
+                    colors: [Colors.red[400], Colors.pink[200]],
+                    begin: Alignment.topCenter,
+                    end: Alignment.bottomLeft,
+                  ),
                 ),
                 child: Align(
                   alignment: Alignment.topCenter,
@@ -63,11 +64,15 @@ class _AuthState extends State<Auth> {
                         const SizedBox(height: 50),
                         Image.asset(
                           'assets/images/gk_logo_trans_500.png',
-                          width: 80,
+                          width: 100,
                         ),
                         Text(
                           'Green Karma',
-                          style: TextStyle(color: Colors.white, fontWeight: FontWeight.w700),
+                          style: TextStyle(
+                            color: Colors.white,
+                            fontWeight: FontWeight.w700,
+                            fontSize: 20,
+                          ),
                         ),
                         getTabs(context),
                         AnimatedCrossFade(
