@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632814004871",
+    "firebase_url": "https://green-karma-app.firebaseio.com",
+    "project_id": "green-karma-app",
+    "storage_bucket": "green-karma-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632814004871:android:e3a82a08ed17b4f9cda622",
+        "android_client_info": {
+          "package_name": "com.greenkarma.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632814004871-8n8q8v54uadlkq9tpiafarq7oahne6t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenkarma.app",
+            "certificate_hash": "9658444bf0e3028ddc4d667ce5a781e46b0419c3"
+          }
+        },
+        {
+          "client_id": "632814004871-8ppf0tfe3rmagnrip9t28tieo0bqadlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAGTLd8Z5xuRTRgjLOnv0rY6mmRFQtXSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632814004871-8ppf0tfe3rmagnrip9t28tieo0bqadlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
