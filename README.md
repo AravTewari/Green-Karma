@@ -1,4 +1,4 @@
-#Green Karma
+# Green Karma
 
 ## Inspiration
 Climate change is one of our most inherent issues today. Billions of people use their mobile devices every day for social media and gaming — I decided to leverage this to introduce a gamified and social approach to sustainability, to put user activity towards a greater cause. Presenting, Green Karma, the first app of its kind which utilizes user's social networks and connections and motivates them to do green activities.
